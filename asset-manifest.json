@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Yogeshbhangale04/react-cart/static/css/main.e6c13ad2.css",
+    "main.js": "/Yogeshbhangale04/react-cart/static/js/main.4b7a6696.js",
+    "index.html": "/Yogeshbhangale04/react-cart/index.html",
+    "main.e6c13ad2.css.map": "/Yogeshbhangale04/react-cart/static/css/main.e6c13ad2.css.map",
+    "main.4b7a6696.js.map": "/Yogeshbhangale04/react-cart/static/js/main.4b7a6696.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4b7a6696.js"
+  ]
+}
